@@ -1,0 +1,1 @@
+("7.0" ("f3af896d36de4ca9b50b98e2d73a5a1f77894fce" . "334909a79f2d6cfa7af3a7921fe46e939c2eeb9a") (collects #"2htdp" #"universe.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"realm" #"chapter14" #"client.rkt") (collects #"realm" #"chapter14" #"server.rkt"))
