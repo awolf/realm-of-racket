@@ -1,5 +1,0 @@
-#lang racket
-(define x 5)
-(cond [(= x 7) 5]
-         [(odd? x) 'odd-number]
-         [else 'even-number])
